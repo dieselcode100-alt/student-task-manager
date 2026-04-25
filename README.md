@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Task Management System
 
 A web-based task management system for students to manage their assignments and deadlines.
@@ -41,3 +42,6 @@ http://localhost:5000
 
 ## Live Demo
 Deployed on Render: [Link will be added after deployment]
+=======
+# student-task-manager
+>>>>>>> 3252c462f2346c4864622d126956b92208acdb1d
